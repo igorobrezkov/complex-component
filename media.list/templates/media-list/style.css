@@ -1,0 +1,11 @@
+.list {
+    padding-top: 50px;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.list__title {
+    text-align: center;
+}
